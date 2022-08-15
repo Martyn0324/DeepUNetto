@@ -18,9 +18,9 @@ Now, photoreceptors are activated by light, which are composed by photons...whic
 
 As such, my idea is to unite techniques in order to better simulate(and perhaps enhance?) the way the eye works. The idea is to proceed through:
 
-# Using image segmentation to detect objects in an image ---> This process will classify objects in a generic way, the classic labels "car, person, dog"
-# Crop those objects from the images and pass them through a convolutional process ---> This one will consider different colors in the pixels that compose the object in order to promove classification in a more specific way -- which car is that? A Ferrari? A Bulgatti? Who is that person? Emperor Naruhito? Lady Gaga? What about that dog?
-# This process should be united into a single neural network --- the generic segmentation, a simpler process, will determine the specific classification.
+### Using image segmentation to detect objects in an image ---> This process will classify objects in a generic way, the classic labels "car, person, dog"
+### Crop those objects from the images and pass them through a convolutional process ---> This one will consider different colors in the pixels that compose the object in order to promove classification in a more specific way -- which car is that? A Ferrari? A Bulgatti? Who is that person? Emperor Naruhito? Lady Gaga? What about that dog?
+### This process should be united into a single neural network --- the generic segmentation, a simpler process, will determine the specific classification.
 
 
 
