@@ -5,6 +5,8 @@
 
 https://medmnist.com/
 
+https://github.com/MedMNIST/MedMNIST
+
 '''
 
 # Full code at https://colab.research.google.com/github/MedMNIST/MedMNIST/blob/main/examples/getting_started.ipynb#scrollTo=HWNRd_Ev4LMZ
