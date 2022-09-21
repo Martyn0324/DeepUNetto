@@ -11,6 +11,8 @@ https://github.com/MedMNIST/MedMNIST
 
 # Full code at https://colab.research.google.com/github/MedMNIST/MedMNIST/blob/main/examples/getting_started.ipynb#scrollTo=HWNRd_Ev4LMZ
 
+# We could start with casual images, like CELEBA Dataset. Then we could stick to ultrassound images from MEDMNIST2D. Perhaps even 3D?
+
 # Use pip install medmnist
 
 import numpy as np
