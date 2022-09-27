@@ -6,10 +6,6 @@
 from torchsummary import summary
 import torch
 from torch import nn
-from PIL import Image
-import matplotlib.pyplot as plt
-import numpy as np
-import os
 
 # Utility functions
 
